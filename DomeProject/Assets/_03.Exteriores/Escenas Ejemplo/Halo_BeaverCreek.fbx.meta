@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 09fa2b3a7488b30419a49bfed5ba9e4e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beaver_water
+    100002: beavercreek_boulder
+    100004: beavercreek_bridge
+    100006: beavercreek_cliffs
+    100008: beavercreek_ground
+    100010: beavercreek_ladder
+    100012: bright_blue_beaver
+    100014: bright_yellow_beaver
+    100016: //RootNode
+    100018: light_bright_overhead_prisoner
+    100020: metal_flat_generic
+    100022: metal_panels_ext_unearthed
+    100024: metal_panels_generic
+    100026: metal_panels_generic_ext
+    100028: metal_panels_generic_ext_clean
+    100030: metal_plate_floor_ext
+    100032: metal_strips_narrow_ext
+    100034: metal_strips_wide
+    400000: beaver_water
+    400002: beavercreek_boulder
+    400004: beavercreek_bridge
+    400006: beavercreek_cliffs
+    400008: beavercreek_ground
+    400010: beavercreek_ladder
+    400012: bright_blue_beaver
+    400014: bright_yellow_beaver
+    400016: //RootNode
+    400018: light_bright_overhead_prisoner
+    400020: metal_flat_generic
+    400022: metal_panels_ext_unearthed
+    400024: metal_panels_generic
+    400026: metal_panels_generic_ext
+    400028: metal_panels_generic_ext_clean
+    400030: metal_plate_floor_ext
+    400032: metal_strips_narrow_ext
+    400034: metal_strips_wide
+    2100000: _beavercreekbeavercreek_cliffs
+    2100002: _beavercreekbeavercreek_boulder
+    2100004: _beavercreekbeavercreek_ground
+    2100006: _beavercreekmetal_panels_generic
+    2100008: _beavercreekbeavercreek_bridge
+    2100010: _beavercreekbeavercreek_ladder
+    2100012: _beavercreekmetal_flat_generic
+    2100014: _beavercreekmetal_strips_narrow_ext
+    2100016: _beavercreekmetal_plate_floor_ext
+    2100018: _beavercreekmetal_panels_generic_ext_clean
+    2100020: _beavercreekmetal_panels_generic_ext
+    2100022: _beavercreekmetal_panels_ext_unearthed
+    2100024: _beavercreekmetal_strips_wide
+    2100026: _beavercreekbright_blue_beaver
+    2100028: _beavercreekbright_yellow_beaver
+    2100030: _beavercreeklight_bright_overhead_prisoner
+    2100032: _beavercreekbeaver_water
+    2300000: beaver_water
+    2300002: beavercreek_boulder
+    2300004: beavercreek_bridge
+    2300006: beavercreek_cliffs
+    2300008: beavercreek_ground
+    2300010: beavercreek_ladder
+    2300012: bright_blue_beaver
+    2300014: bright_yellow_beaver
+    2300016: light_bright_overhead_prisoner
+    2300018: metal_flat_generic
+    2300020: metal_panels_ext_unearthed
+    2300022: metal_panels_generic
+    2300024: metal_panels_generic_ext
+    2300026: metal_panels_generic_ext_clean
+    2300028: metal_plate_floor_ext
+    2300030: metal_strips_narrow_ext
+    2300032: metal_strips_wide
+    3300000: beaver_water
+    3300002: beavercreek_boulder
+    3300004: beavercreek_bridge
+    3300006: beavercreek_cliffs
+    3300008: beavercreek_ground
+    3300010: beavercreek_ladder
+    3300012: bright_blue_beaver
+    3300014: bright_yellow_beaver
+    3300016: light_bright_overhead_prisoner
+    3300018: metal_flat_generic
+    3300020: metal_panels_ext_unearthed
+    3300022: metal_panels_generic
+    3300024: metal_panels_generic_ext
+    3300026: metal_panels_generic_ext_clean
+    3300028: metal_plate_floor_ext
+    3300030: metal_strips_narrow_ext
+    3300032: metal_strips_wide
+    4300000: beavercreek_cliffs
+    4300002: beavercreek_boulder
+    4300004: beavercreek_ground
+    4300006: metal_panels_generic
+    4300008: beavercreek_bridge
+    4300010: beavercreek_ladder
+    4300012: metal_flat_generic
+    4300014: metal_strips_narrow_ext
+    4300016: metal_plate_floor_ext
+    4300018: metal_panels_generic_ext_clean
+    4300020: metal_panels_generic_ext
+    4300022: metal_panels_ext_unearthed
+    4300024: metal_strips_wide
+    4300026: bright_blue_beaver
+    4300028: bright_yellow_beaver
+    4300030: light_bright_overhead_prisoner
+    4300032: beaver_water
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
