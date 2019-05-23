@@ -1,8 +1,143 @@
 fileFormatVersion: 2
 guid: a85fc1ff103a2ac458691e4bb9c4ae09
 ModelImporter:
-  serializedVersion: 25
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle
+    100002: ring
+    100004: ring.001
+    100006: ring.002
+    100008: side
+    100010: side.001
+    100012: side2
+    100014: side2.001
+    100016: side3
+    100018: side3.001
+    100020: Sphere
+    100022: Sphere.001
+    100024: Sphere.002
+    100026: Sphere.003
+    100028: Sphere.004
+    100030: Sphere.005
+    100032: TopSomething
+    100034: TopSomething.001
+    100036: TopSomething.002
+    100038: TopSomething.003
+    100040: TopSomething.004
+    100042: TopSomething.005
+    100044: Tube
+    100046: Tube.001
+    100048: tunnel
+    100050: //RootNode
+    400000: Circle
+    400002: ring
+    400004: ring.001
+    400006: ring.002
+    400008: side
+    400010: side.001
+    400012: side2
+    400014: side2.001
+    400016: side3
+    400018: side3.001
+    400020: Sphere
+    400022: Sphere.001
+    400024: Sphere.002
+    400026: Sphere.003
+    400028: Sphere.004
+    400030: Sphere.005
+    400032: TopSomething
+    400034: TopSomething.001
+    400036: TopSomething.002
+    400038: TopSomething.003
+    400040: TopSomething.004
+    400042: TopSomething.005
+    400044: Tube
+    400046: Tube.001
+    400048: tunnel
+    400050: //RootNode
+    2100000: No Name
+    2100002: Material.004
+    2100004: Material.003
+    2100006: Material.001
+    2100008: Material.002
+    2100010: Material.005
+    2100012: Material.007
+    2100014: Material.006
+    2300000: Circle
+    2300002: ring
+    2300004: ring.001
+    2300006: ring.002
+    2300008: side
+    2300010: side.001
+    2300012: side2
+    2300014: side2.001
+    2300016: side3
+    2300018: side3.001
+    2300020: Sphere
+    2300022: Sphere.001
+    2300024: Sphere.002
+    2300026: Sphere.003
+    2300028: Sphere.004
+    2300030: Sphere.005
+    2300032: TopSomething
+    2300034: TopSomething.001
+    2300036: TopSomething.002
+    2300038: TopSomething.003
+    2300040: TopSomething.004
+    2300042: TopSomething.005
+    2300044: Tube
+    2300046: Tube.001
+    2300048: tunnel
+    3300000: Circle
+    3300002: ring
+    3300004: ring.001
+    3300006: ring.002
+    3300008: side
+    3300010: side.001
+    3300012: side2
+    3300014: side2.001
+    3300016: side3
+    3300018: side3.001
+    3300020: Sphere
+    3300022: Sphere.001
+    3300024: Sphere.002
+    3300026: Sphere.003
+    3300028: Sphere.004
+    3300030: Sphere.005
+    3300032: TopSomething
+    3300034: TopSomething.001
+    3300036: TopSomething.002
+    3300038: TopSomething.003
+    3300040: TopSomething.004
+    3300042: TopSomething.005
+    3300044: Tube
+    3300046: Tube.001
+    3300048: tunnel
+    4300000: Sphere.005
+    4300002: side3.001
+    4300004: side2.001
+    4300006: Sphere.004
+    4300008: Sphere.003
+    4300010: side.001
+    4300012: Circle
+    4300014: tunnel
+    4300016: Tube
+    4300018: Tube.001
+    4300020: ring
+    4300022: ring.001
+    4300024: ring.002
+    4300026: TopSomething
+    4300028: TopSomething.001
+    4300030: TopSomething.002
+    4300032: TopSomething.003
+    4300034: TopSomething.004
+    4300036: TopSomething.005
+    4300038: side
+    4300040: Sphere
+    4300042: Sphere.001
+    4300044: side2
+    4300046: side3
+    4300048: Sphere.002
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -45,19 +180,18 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -66,11 +200,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -80,7 +213,6 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.32999998
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
